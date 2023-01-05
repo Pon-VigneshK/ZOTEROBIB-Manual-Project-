@@ -1,1 +1,7 @@
-# ZOTEROBIB-Manual-Project-
+# ZOTEROBIB-Manual-Project
+# PROJECT NAME:  ZOTEROBIB
+# PROJECT URL: https://zbib.org/
+# DATE: 10TH NOVEMBER 2021     
+# NAME: PON VIGNESH
+# EMAIL ID: ponvigneshk@outlook.com
+# CONTACT NUMBER: 8072183865
